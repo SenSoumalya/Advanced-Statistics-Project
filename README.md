@@ -1,4 +1,4 @@
-## Inferential Statistics Project
+# Inferential Statistics Project
 ## Course: Advanced Statistics
 
 ## Project Overview
