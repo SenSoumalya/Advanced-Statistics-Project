@@ -1,3 +1,6 @@
+
+## Course: Advanced Statistics
+
 ## Project Overview
 
 This project analyzes three separate datasets with the following objectives:
